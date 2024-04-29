@@ -20,6 +20,7 @@ body {
 
 main {
   background-color: #fcfcff;
+  box-shadow: 5px 5px 15px #73071bdc;
   width: 600px;
   padding: 10px;
   margin: auto;
