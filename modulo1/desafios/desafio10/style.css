@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+  margin: 0 0 0 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: rgb(59, 211, 127);
+  background: linear-gradient(
+    180deg,
+    rgba(59, 211, 127, 1) 0%,
+    rgba(39, 139, 84, 1) 73%
+  );
+  color: #fff;
+}
+main {
+  background-color: #fff;
+  width: 500px;
+  height: 1500px;
+  margin-left: 85px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+body {
+  background-color: #84e1ad;
+}
